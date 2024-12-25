@@ -1,7 +1,13 @@
 .parent {
   display: grid;
   place-items: center;
+  height: 100vh; /* Full viewport height */
+  background-color: #f0f0f0; /* Light background color for visual clarity */
 }
+
 .class { 
-	font-family: Verdana,Geneva,sans-serif; 
+  font-family: Verdana, Geneva, sans-serif; 
+  font-size: 16px; /* Set a base font size */
+  color: #333; /* Dark text color */
+  line-height: 1.5; /* Better readability */
 }
