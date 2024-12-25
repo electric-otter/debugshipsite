@@ -1,1 +1,7 @@
-
+.parent {
+  display: grid;
+  place-items: center;
+}
+.class { 
+	font-family: Verdana,Geneva,sans-serif; 
+}
